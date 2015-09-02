@@ -58,7 +58,7 @@ everything for free but this does not mean that tips is not expected.
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GRYNNLPTV9BRG)
 
-[![Donate](https://www.coinbase.com/assets/buttons/donation_small-77a6e527206c0407ffd8b2e8b76556b0.png)](https://www.coinbase.com/checkouts/47bd6412c8fbfbf66dd6a481c0e8327e)
+[![Donate](https://www.coinbase.com/buttons/2b30a03995ec62f15bdc54e8428caa87?buttonStyle=custom_small&code=2b30a03995ec62f15bdc54e8428caa87)](https://www.coinbase.com/checkouts/47bd6412c8fbfbf66dd6a481c0e8327e)
 
 You also can help the project by opening pull requests or issues, or by watching/staring plugins you like.
 
